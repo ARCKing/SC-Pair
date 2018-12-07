@@ -1,7 +1,6 @@
 # SC-Pair
 
-
-iOS App Technical Support
+If you encounter any problems when using the App, you can contact me by:
 
 Email：zack@grossbart.com
 
